@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Felix Lee</h1>
+<h3 align="center">💻 Self-Taught Programmer | Always Learning 🚀</h3>
 
-<!--
-**XilefEel/XilefEel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xilefeel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/xilefeel?tab=followers">
+    <img src="https://img.shields.io/github/followers/xilefeel?label=Followers&style=flat" alt="GitHub Badge">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me  
+- 🔭 Working on **[MindNest](https://github.com/xilefeel/mindnest)** – an all-in-one productivity tool  
+- 🌱 Currently learning **React, TypeScript, Tauri, and SQLite**  
+- 🤝 Always happy to learn and collaborate with others
+- ⚡ Started coding “just for fun” - now I'm in love 😅  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,react,vue,python,rust,sqlite,git" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+<p align="center">
+  <a href="https://github.com/xilefeel/mindnest">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=tokyonight"
+        media="(prefers-color-scheme: dark)" />
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=default"
+        media="(prefers-color-scheme: light)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=default" alt="MindNest repo card" />
+    </picture>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=xilefeel&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=xilefeel&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xilefeel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180em"/>
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180em"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=xilefeel&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=xilefeel&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xilefeel&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
+  </picture>
+</p>
