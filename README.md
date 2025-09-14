@@ -1,33 +1,25 @@
 <h1 align="center">Hi there 👋, I'm Felix Lee</h1>
-<h3 align="center">💻 Self-Taught Programmer | Always Learning 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xilefeel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/xilefeel?tab=followers">
-    <img src="https://img.shields.io/github/followers/xilefeel?label=Followers&style=flat" alt="GitHub Badge">
-  </a>
-</p>
-
----
+<h3 align="center">CS Student • Building MindNest • Always Learning 🚀</h3>
 
 ### 👨‍💻 About Me  
-- 🔭 Working on **[MindNest](https://github.com/xilefeel/mindnest)** – an all-in-one productivity tool  
+- 🔭 Working on **[MindNest](https://github.com/XilefEel/MindNest)** – an all-in-one productivity tool  
 - 🌱 Currently learning **React, TypeScript, Tauri, and SQLite**  
-- 🤝 Always happy to learn and collaborate with others
-- ⚡ Started coding “just for fun” - now I'm in love 😅  
+- 🤝 Always happy to learn and collaborate with others  
+- ⚡ Started coding “just for fun” → now I’m hooked 😅
 
 ---
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,react,vue,python,rust,sqlite,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,react,vue&perline=6" /><br/>
+  <img src="https://skillicons.dev/icons?i=rust,python,sqlite,git&perline=6" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects  
 <p align="center">
-  <a href="https://github.com/xilefeel/mindnest">
+  <a href="https://github.com/XilefEel/MindNest">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=tokyonight"
