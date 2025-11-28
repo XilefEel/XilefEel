@@ -36,13 +36,13 @@
 <div align="center">
   
   **Frontend:**  
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue" />
   
   **Backend & Tools:**  
-  <img src="https://skillicons.dev/icons?i=python,typescript,rust,dart,sqlite,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,rust,dart,sqlite,git" />
   
   **Frameworks:**  
-  <img src="https://skillicons.dev/icons?i=tauri,flutter&perline=2" />
+  <img src="https://skillicons.dev/icons?i=tauri,express,flutter" />
 
 </div>
 
