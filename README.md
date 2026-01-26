@@ -3,24 +3,21 @@
 
 <p align="center">
   <a href="https://xilefeel.github.io/personal-website/">🌐 Portfolio</a> •
-  <a href="mailto:felixlee175@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/felix-lee-115515277/">💼 LinkedIn</a>
 </p>
 
 ### 👨‍💻 About Me
-- 🎯 Goal: Becoming a **Full Stack Developer**
-- 🔭 Working on **[MindNest](https://github.com/XilefEel/MindNest)** - an all-in-one productivity tool
-- 🌱 Currently learning **React, TypeScript, Tauri, Rust, SQLite**
-- 💡 Love building complete applications, from UI to database
-- 🤝 Open to collaborations and code reviews
-- ⚡ Started coding "just for fun" → now I'm hooked 😅
+- 🎓 CS Freshman who loves building things, from full-stack apps to random side projects.
+- 🎯 Goal: Becoming a **Full Stack Developer**.
+- 🔭 Working on **[MindNest](https://github.com/XilefEel/MindNest)** - an all-in-one productivity tool.
+- 🧗‍♂️ Recent Win: Finally hit my goal of doing clean chin-ups!
 
 ---
 
 ### 🎯 Current Focus
-- ⚡ Building full stack features in MindNest
-- 📚 Learning API design and database management
-- 🛠️ Exploring DevOps and CI/CD basics
+- ⚡ **Mindnest**: Bringing the project to life, one commit at a time.
+- 🦀 **Rust**: Deep-diving into more advanced concepts.
+- 🛠️ **DevOps**: Exploring and experimenting with CI/CD pipelines.
 
 ---
 
@@ -42,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=python,typescript,rust,dart,sqlite,git" />
   
   **Frameworks:**  
-  <img src="https://skillicons.dev/icons?i=tauri,express,flutter" />
+  <img src="https://skillicons.dev/icons?i=tauri,express,fastapi,flutter" />
 
 </div>
 
