@@ -32,12 +32,12 @@
   <a href="https://github.com/XilefEel/MindNest">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=tokyonight"
+        srcset="https://github-readme-stats-xilef.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=tokyonight"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=default"
+        srcset="https://github-readme-stats-xilef.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=default"
         media="(prefers-color-scheme: light)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=default" alt="MindNest repo card" />
+      <img src="https://github-readme-stats-xilef.vercel.app/api/pin/?username=xilefeel&repo=mindnest&theme=default" alt="MindNest repo card" />
     </picture>
   </a>
 </p>
@@ -49,21 +49,21 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xilefeel&show_icons=true&theme=tokyonight&hide_border=true"
+      srcset="https://github-readme-stats-xilef.vercel.app/api?username=xilefeel&show_icons=true&theme=tokyonight&hide_border=true"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xilefeel&show_icons=true&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-xilef.vercel.app/api?username=xilefeel&show_icons=true&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=xilefeel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180em"/>
+    <img src="https://github-readme-stats-xilef.vercel.app/api?username=xilefeel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180em"/>
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=tokyonight&hide_border=true"
+      srcset="https://github-readme-stats-xilef.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=tokyonight&hide_border=true"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=default&hide_border=true"
+      srcset="https://github-readme-stats-xilef.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=default&hide_border=true"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180em"/>
+    <img src="https://github-readme-stats-xilef.vercel.app/api/top-langs?username=xilefeel&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180em"/>
   </picture>
 </p>
 <p align="center">
